@@ -21,7 +21,9 @@ namespace std {
 		static const __i8 mPreCommand_ = 14;
 		static const __i8 mReconnect_ = 15;
 		static const __i8 mBindResult_ = 16;
-		static const __i8 mEnd_ = 17;
+		static const __i8 mMustUpdate_ = 17;
+		static const __i8 mHaveUpdate_ = 18;
+		static const __i8 mEnd_ = 19;
 	};
 	
 }
